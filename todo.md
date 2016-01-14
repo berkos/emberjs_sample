@@ -1,5 +1,6 @@
 ## Cart
 
+
 * Make the "Add to Cart" button do something.
 * Show the items in cart / total in cart in the header or application template
 
@@ -10,5 +11,5 @@
 
 
 ## Goals
-
+test
 * See what can be done to make it more themed. How is this a store for stolen goods?
